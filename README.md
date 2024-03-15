@@ -30,7 +30,7 @@ Adoption of Strong Cryptographic Algorithms: Ensure that the cryptographic algor
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/AT5bdmH" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AT5bdmH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
