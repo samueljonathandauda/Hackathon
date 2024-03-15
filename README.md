@@ -8,7 +8,18 @@ address each of the vulnerabilities comprised by such checklist.
 
 <h2>A02:2021-Cryptographic failures:</h2>
 
-- <b>PowerShell</b> 
+- <b>Problem: 
+Weak algorithms: The use of outdated or weak cryptographic  algorithms can make it easier for attackers to break the encryption.
+Poor key management: Inadequate key management practice such as using weak keys, reusing keys, or strong keys insecurely can lead to cryptographic failures.
+Implementation flaws: Errors in the implementation of cryptographic protocols or libraries can create vulnerabilities that attackers can exploit.
+
+Forces:
+Cryptographic failures pose significant risks to data security and privacy. Various actors, including hackers, malicious insiders, and state-sponsored entities, can exploit vulnerabilities in cryptographic systems. Technical constraints such as weak encryption algorithms, flawed implementations and insufficient key management can also contribute to cryptographic failures. Additionally, technology constraints such as hardware limitations and compatibility issues can impede the effectiveness of cryptographic solutions. 
+ 
+Solutions:
+Adoption of Strong Cryptographic Algorithms: Ensure that the cryptographic algorithms used in the system are strong and resistant to known attacks as well as regularly update cryptographic protocols and algorithms to stay ahead of emerging threats.
+
+</b> 
 - <b>Diskpart</b>
 
 <h2>Environments Used </h2>
@@ -19,11 +30,11 @@ address each of the vulnerabilities comprised by such checklist.
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/AT5bdmH" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/AT5bdmH" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
