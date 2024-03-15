@@ -34,7 +34,7 @@ Launch the utility: <br/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://imgur.com/AT5bdmH" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
