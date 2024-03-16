@@ -1,7 +1,7 @@
 <h1>Hackathon</h1>
 
 <h2>Description</h2>
-Scnning and Addressing the vulnerabilities comprised by the OWASP Top Ten (Top 10 Web Application Security Risks) and provide detailed solutions with complete guidelines on how to 
+Scanning and Addressing the vulnerabilities comprised by the OWASP Top Ten (Top 10 Web Application Security Risks) and provide detailed solutions with complete guidelines on how to 
 address each of the vulnerabilities comprised by such checklist. 
 
 
@@ -90,7 +90,7 @@ Ensure that you are not sending raw response bodies from the server directly to 
 Disable suspect and exploitable URL schemas. Common culprits include obscure and little-used schemas such as file://, dict://, ftp://, and gopher://.
 <br />
 <br />
-Scan with Snyk:  <br/>
+Input vulnerability detected:  <br/>
 <img src="https://i.imgur.com/Atk1gWp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 The above screenshot shows that the inputs are not properly validated or sanitised as the header accepts URLs which allows bypassing subsequent filters.
